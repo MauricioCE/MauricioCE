@@ -18,11 +18,7 @@ Em breve, darei início aos meus estudos em **Backend com Java e Spring Boot**, 
 
 ## Soft Skills
 
-<img src="./badges/esforçado.png" alt="React" height="30">
-<img src="./badges/responsavel.png" alt="React" height="30">
-<img src="./badges/proativo.png" alt="React" height="30">
-<img src="./badges/pontual.png" alt="React" height="30">
-<img src="./badges/confiavel.png" alt="React" height="30">
+<img src="./badges/esforçado.png" alt="React" height="30"> <img src="./badges/responsavel.png" alt="React" height="30"> <img src="./badges/proativo.png" alt="React" height="30"> <img src="./badges/pontual.png" alt="React" height="30"> <img src="./badges/confiavel.png" alt="React" height="30">
 
 ## Contatos
 
