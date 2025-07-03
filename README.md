@@ -10,14 +10,7 @@ Em breve, darei início aos meus estudos em **Backend com Java e Spring Boot**, 
 
 ## Hard Skills
 
-<img src="./badges/react.png" alt="React" height="30">
-<img src="./badges/typescript.png" alt="React" height="30">
-<img src="./badges/git.png" alt="React" height="30">
-<img src="./badges/emotion.png" alt="React" height="30">
-<img src="./badges/motion.png" alt="React" height="30">
-<img src="./badges/zustand.png" alt="React" height="30">
-<img src="./badges/trello.png" alt="React" height="30">
-<img src="./badges/figma.png" alt="React" height="30">
+<img src="./badges/react.png" alt="React" height="30"> <img src="./badges/typescript.png" alt="TypeScript" height="30"> <img src="./badges/git.png" alt="Git" height="30"> <img src="./badges/emotion.png" alt="Emotion" height="30"> <img src="./badges/motion.png" alt="Framer Motion" height="30"> <img src="./badges/zustand.png" alt="Zustand" height="30"> <img src="./badges/trello.png" alt="Trello" height="30"> <img src="./badges/figma.png" alt="Figma" height="30">
 
 </br>
 
