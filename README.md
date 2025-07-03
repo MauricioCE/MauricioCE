@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, sou o José Maurício! 👋
 
-<!--
-**MauricioCE/MauricioCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Frontend | React | TypeScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Sou um estudante de **Ciência da Computação na UNIFOR** apaixonado por programação e em busca da minha primeira oportunidade como desenvolvedor. Atualmente, estou imerso no **Desenvolvimento Frontend com React e TypeScript**, criando projetos práticos para solidificar minhas habilidades e conhecimentos.
+
+Em breve, darei início aos meus estudos em **Backend com Java e Spring Boot**, com o objetivo de construir um perfil **Fullstack** robusto. Tenho um grande entusiasmo em aprender e aplicar novas tecnologias para resolver desafios complexos, e estou pronto para contribuir em um ambiente dinâmico e colaborativo.
+
+---
+
+## Hard Skills
+
+- **Linguagens:** TypeScript
+- **Bibliotecas/Frameworks:** React
+- **Controle de Versão:** Git
+
+---
+
+## Soft Skills
+
+- Esforçado
+- Proativo
+- Responsável
+- Pontual
+
+---
+
+## Contato
+
+- **LinkedIn:** [Seu perfil do LinkedIn aqui]
+- **Email:** [Seu email aqui]
+- **Portfólio (se tiver):** [Seu link do portfólio aqui]
