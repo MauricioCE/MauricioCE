@@ -6,12 +6,6 @@ Desenvolvedor Frontend | React | TypeScript
 
 🧠 Estudante de Ciência da Computação na UNIFOR
 
-💻 Frontend React: Atualmente, aprofundo meus conhecimentos em React e TypeScript, criando projetos práticos para consolidar minhas habilidades.
-
-🚀 Visão Fullstack: Em breve, iniciarei meus estudos em Backend com Java e Spring Boot para construir um perfil completo.
-
-🤝 Pronto para Contribuir: Estou preparado para contribuir em um ambiente dinâmico e colaborativo.
-
 ## 💻 Hard Skills
 
 <img src="./badges/react.png" alt="React" height="30"> <img src="./badges/typescript.png" alt="TypeScript" height="30"> <img src="./badges/git.png" alt="Git" height="30"> <img src="./badges/emotion.png" alt="Emotion" height="30"> <img src="./badges/motion.png" alt="Framer Motion" height="30"> <img src="./badges/zustand.png" alt="Zustand" height="30"> <img src="./badges/trello.png" alt="Trello" height="30"> <img src="./badges/figma.png" alt="Figma" height="30">
